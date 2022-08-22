@@ -1,4 +1,9 @@
-
+---
+toc: true
+layout: post
+description: using markdown with fastpages
+categories: markdown
+title: My First Markdown!
 ---
 # My First Markdown!
 
