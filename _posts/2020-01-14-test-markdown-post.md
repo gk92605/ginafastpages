@@ -1,10 +1,10 @@
+<<<<<<< HEAD
 ---
 toc: true
 layout: post
 description: using markdown
 categories: [markdown]
 title: My First Markdown!
-
 ---
 # My First Markdown!
 
