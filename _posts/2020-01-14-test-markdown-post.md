@@ -28,8 +28,6 @@ Favorite song: Clouds by One Direction
 
 Favorite food: French Fries
 
-Favorite color: Blue
-
 ---
 
 > Make tomorrow a better day than today. 
