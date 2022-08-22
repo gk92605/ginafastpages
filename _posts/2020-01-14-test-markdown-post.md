@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: using markdown with fastpages
+description: using markdown
 categories: [markdown]
 title: My First Markdown!
 
