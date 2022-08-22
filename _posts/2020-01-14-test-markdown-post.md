@@ -5,97 +5,30 @@ description: A minimal example of using markdown with fastpages.
 categories: [markdown]
 title: My first markdown!
 ---
-# Here's some stuff about me!
+# My First Markdown!
 
-## 
-
-
-
-
+## Here's some stuff about me!
 
 I have a dog named Willow. She is 2 years old. 
-I play the clarinet, but can also slightly play the clarinet. 
+I play the clarinet, but can also slightly play the piano. 
 My favorite group is Seventeen and favorite singer is Conan Gray. 
 
-## Basic formatting
+## Fun Facts
 
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
+Favorite movie: La La Land
+Favorite book: Six of Crows
+Favorite song: Clouds by One Direction
+Favorite food: French Fries
 
 ---
 
-## Lists
+> Make tomorrow a better day than today. 
 
-Here's a list:
-
-- item 1
-- item 2
-
-And a numbered list:
-
-1. item 1
-1. item 2
-
-## Boxes and stuff
-
-> This is a quotation
-
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
 
 ## Images
 
-![]({{ site.baseurl }}/images/logo.png "fast.ai's logo")
+![]({{ https://www.proprofs.com/quiz-school/story.php?title=1dq-which-tinkerbell-friends-are-you }}/images/logo.png "fast.ai's logo")
 
-## Code
-
-You can format text and code per usual 
-
-General preformatted text:
-
-    # Do a thing
-    do_thing()
-
-Python code and output:
-
-```python
-# Prints '2'
-print(1+1)
-```
-
-    2
-
-Formatting text as shell commands:
-
-```shell
-echo "hello world"
-./some_script.sh --option "value"
-wget https://example.com/cat_photo1.png
-```
-
-Formatting text as YAML:
-
-```yaml
-key: value
-- another_key: "another value"
-```
-
-
-## Tables
-
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
-
-
-## Tweetcards
-
-{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}
-
-
-## Footnotes
 
 
 
