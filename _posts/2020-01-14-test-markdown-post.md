@@ -7,12 +7,14 @@ title: My first markdown!
 ---
 # My First Markdown!
 
+---
 ## Here's some stuff about me!
 
 I have a dog named Willow. She is 2 years old. 
 I play the clarinet, but can also slightly play the piano. 
 My favorite group is Seventeen and favorite singer is Conan Gray. 
 
+---
 ## Fun Facts
 
 Favorite movie: La La Land
