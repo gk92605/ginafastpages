@@ -29,7 +29,7 @@ Favorite food: French Fries
 
 ## Images
 
-![](https://www.proprofs.com/quiz-school/story.php?title=1dq-which-tinkerbell-friends-are-you)
+![](https://www.pinterest.com/elladynae/tinker-bell-and-friends/)
 
 
 
