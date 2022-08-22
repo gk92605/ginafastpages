@@ -11,7 +11,7 @@ title: My First Markdown!
 ---
 ## Here's some stuff about me!
 
-I have a dog named Willow. She is 2 years old. 
+I have a 2 year old dog named Willow.
 
 I play the clarinet, but can also slightly play the piano. 
 
