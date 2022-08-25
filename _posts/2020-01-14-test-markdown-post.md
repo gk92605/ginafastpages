@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 toc: true
 layout: post
