@@ -1,4 +1,3 @@
-
 ---
 toc: true
 layout: post
@@ -20,7 +19,7 @@ My favorite group is Seventeen and favorite singer is Conan Gray.
 ---
 ## Fun Facts
 
-Favorite movie: La La Land
+Favorite movie: La La Land and Spy Kids
 
 Favorite book: Six of Crows
 
@@ -31,7 +30,6 @@ Favorite food: French Fries
 ---
 
 > Make tomorrow a better day than today. 
-
 
 
 
