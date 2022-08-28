@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: using markdown
+description: notes from my stats class
 categories: [markdown]
-title: My First Markdown!
+title: Statistics Notes
 ---
 # My First Markdown!
 
